@@ -9,7 +9,7 @@
 ## 🔮 About Me
 
 ```yaml
-name: Muskan Yadav
+name: Muskan 
 location: Gurugram, India
 university: NIIT University
 focus:
